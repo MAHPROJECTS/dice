@@ -35,3 +35,4 @@ window.mainloop()
 
 print("hiii")
 print("this is so annoying")
+print("im literlaly crying cos this is so annoying like help")

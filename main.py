@@ -37,6 +37,7 @@ print("hiii")
 print("this is so annoying")
 
 print("Working")
+print("me hate this lots")
 import random
 
 
